@@ -4,4 +4,4 @@
 
 Comic strip taken from https://xkcd.com/722/ .
 
-This is the master branch.
+This is the main branch.
